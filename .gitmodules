@@ -10,3 +10,12 @@
 [submodule "bundles/objc-tmbundle"]
 	path = bundles/objc-tmbundle
 	url = https://github.com/textmate/objective-c.tmbundle.git
+[submodule "bundles/javascript.tmbundle"]
+	path = bundles/javascript.tmbundle
+	url = https://github.com/textmate/javascript.tmbundle.git
+[submodule "bundles/shellscript.tmbundle"]
+	path = bundles/shellscript.tmbundle
+	url = https://github.com/textmate/shellscript.tmbundle.git
+[submodule "bundles/css.tmbundle"]
+	path = bundles/css.tmbundle
+	url = https://github.com/textmate/css.tmbundle.git
